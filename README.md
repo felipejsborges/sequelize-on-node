@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>happy</h1>
+	<h1>Sequelize Practice</h1>
 	<img src="/.github/banner.png" alt="banner" width="80%" />
 </div>
 
