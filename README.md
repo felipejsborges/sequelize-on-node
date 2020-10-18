@@ -1,30 +1,32 @@
 <div align="center">
 	<h1>Sequelize Practice</h1>
+	<br>
+	<p align="center">
+		<img alt="Repository size" src="https://img.shields.io/github/repo-size/felipejsborges/happy">
+		<a href="https://www.linkedin.com/in/felipejsborges/">
+		  <img alt="made by" src="https://img.shields.io/badge/made%20by-Felipe%20Borges-orange">
+		</a>
+		<a href="https://github.com/felipejsborges/happy/commits/master">
+		  <img alt="last commit" src="https://img.shields.io/github/last-commit/felipejsborges/happy">
+		</a>
+		<a href="https://github.com/felipejsborges/happy/issues">
+			<img alt="issues" src="https://img.shields.io/github/issues/felipejsborges/happy">
+		</a>
+		<a href="https://github.com/felipejsborges/happy/network/members">	
+			<img alt="forks" src="https://img.shields.io/github/forks/felipejsborges/happy">	
+		</a>
+		<a href="https://github.com/felipejsborges/happy/stargazers">
+			<img alt="stars" src="https://img.shields.io/github/stars/felipejsborges/happy">
+		</a>
+		<a href="https://github.com/felipejsborges/happy/blob/master/LICENSE.md">
+			<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT">	
+		</a>
+		<!-- version, status da build, status dos testes -->
+	</p>
+	<br>
 	<img src="/.github/banner.png" alt="banner" width="80%" />
 </div>
 
-<p align="center">
-	<img alt="Repository size" src="https://img.shields.io/github/repo-size/felipejsborges/happy">
-	<a href="https://www.linkedin.com/in/felipejsborges/">
-	  <img alt="made by" src="https://img.shields.io/badge/made%20by-Felipe%20Borges-orange">
-	</a>
-	<a href="https://github.com/felipejsborges/happy/commits/master">
-	  <img alt="last commit" src="https://img.shields.io/github/last-commit/felipejsborges/happy">
-	</a>
-	<a href="https://github.com/felipejsborges/happy/issues">
-		<img alt="issues" src="https://img.shields.io/github/issues/felipejsborges/happy">
-	</a>
-	<a href="https://github.com/felipejsborges/happy/network/members">	
-		<img alt="forks" src="https://img.shields.io/github/forks/felipejsborges/happy">	
-	</a>
-	<a href="https://github.com/felipejsborges/happy/stargazers">
-		<img alt="stars" src="https://img.shields.io/github/stars/felipejsborges/happy">
-	</a>
-	<a href="https://github.com/felipejsborges/happy/blob/master/LICENSE.md">
-		<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT">	
-	</a>
-	<!-- version, status da build, status dos testes -->
-</p>
 
 <br>
 
