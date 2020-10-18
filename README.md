@@ -32,7 +32,7 @@
 	<a href="#description-">Description 📄</a>		|    
 	<a href="#technologies-">Technologies 🚀</a>		|    
   	<a href="#routes-">Routes 📡</a>		|   
-	<a href="#how-to-run-it-on-your-computer-">How to run it on your computer 🖥️</a>
+	<a href="#how-to-run-it-on-your-computer-%EF%B8%8F">How to run it on your computer 🖥️</a>
 </h4>
 
 <hr>
