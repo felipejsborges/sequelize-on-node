@@ -52,13 +52,13 @@ This application was developed in order to learn and practice Sequelize ORM. How
 
 <hr>
 
-<h4>Routes</h4>
+<h4>Routes 📡</h4>
 
 - [Click here](.github/insomnia.json), copy the content, create .json with it, and import it on [Insomnia](https://insomnia.rest/)
 
 <hr>
 
-<h4>How to run it on your computer</h4>
+<h4>How to run it on your computer 🖥️</h4>
 
 - Install [Node.js](https://nodejs.org/en/download/), [Yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable) (or use npm), [Docker](https://docs.docker.com/get-docker/), and [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), then:
 
