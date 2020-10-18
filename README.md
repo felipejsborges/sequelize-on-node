@@ -41,7 +41,7 @@
 
 <h4>Description 📄</h4>
   
-This application was developed in order to learn and practice Sequelize ORM. How to setup the environment, the models, manage migrations, with relations between entities (OneToMany, ManyToMany, ...) and soft delete records on the database. Check the [.json file]() with details of the routes.
+This application was developed in order to learn and practice Sequelize ORM. How to setup the environment, the models, manage migrations, with relations between entities (OneToMany, ManyToMany, ...) and soft delete records on the database.
 
 <hr>
 
